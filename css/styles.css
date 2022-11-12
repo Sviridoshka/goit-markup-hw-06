@@ -389,6 +389,7 @@ textarea {
   left: 0;
   padding: 27px 107px;
 
+  font-weight: 700;
   font-size: 14px;
   line-height: 1.14;
   text-align: center;
@@ -861,9 +862,6 @@ textarea {
 
 .comment-area:focus {
   border-color: var(--accent-color);
-}
-
-.modal-field-check {
 }
 
 .input-check {
